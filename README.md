@@ -8,3 +8,4 @@ You can play the game at: hhttps://githubschool.github.io/github-games-NickPende
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 Quick Change
+Additional Changes
